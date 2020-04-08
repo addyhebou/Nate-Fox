@@ -5,7 +5,7 @@
     transition: all 0.3s;
 }
 
-@font-face{
+@font-face{ 
     font-family: Selena;
     src: url(Fonts/Selena.ttf);
 }
@@ -173,6 +173,7 @@ main{
 
 .mentorPicture{
     margin: 0;
+    margin-top: 250px;
 }
 .mentorPicture img{
     width: 100%;
